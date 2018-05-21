@@ -10,7 +10,5 @@ def backed_project(project)
   
 end
 
-end
-
 
 end
