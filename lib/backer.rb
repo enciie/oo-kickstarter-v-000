@@ -5,5 +5,11 @@ def initialize(name)
   @name = name
 end
 
+def backed_project(project)
+  
+end
+  
+end
+
 
 end
